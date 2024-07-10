@@ -1,5 +1,6 @@
 # PsyNN
 *详细文档请见 2.documents/快同效应的认知机制_孙禾嘉_终稿*
+*展示ppt请见 2.documents/项目介绍-7.9修改.pptx*
 
 0-datasets：使用的所有数据内容
 
